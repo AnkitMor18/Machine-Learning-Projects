@@ -1,6 +1,6 @@
-**Project: Salary Prediction using Age and Experience**
+**Project: Salary Prediction**
 
-Welcome to the Salary Prediction using Age and Experience project! This project focuses on predicting salary based on the features of age and experience.
+Welcome to the Salary Prediction project! This project focuses on predicting salary based on the features of age and experience.
 
 **Project Overview**
 
