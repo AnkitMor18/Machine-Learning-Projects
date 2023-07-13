@@ -6,13 +6,17 @@ Welcome to the Abalone Age Prediction project! This project aims to predict the 
 
 In this project, we will be using machine learning techniques to build a predictive model for abalone age. The dataset provided contains various physical measurements of abalones, such as their dimensions and weights, as well as their corresponding ages. We will preprocess the data, train a model on a subset of the data, and evaluate its performance in predicting the age of abalones.
 
-**Prerequisites**
+**Languages & Librariess**
 
-To run this project, you need to have the following installed:
+Python
 
-Python (version 3.6 or higher)
-Scikit-learn library (version 0.24 or higher)
-Jupyter Notebook or any other Python IDE
+Scikit-learn library
+
+Pandas
+
+Matplotlib
+
+Jupyter Notebook
 
 **Data Preprocessing**
 
