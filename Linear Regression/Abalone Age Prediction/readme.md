@@ -35,7 +35,7 @@ Scaling the continuous variables.
 Model Training and Evaluation
 
 
-The model training and evaluation steps include:
+The **model training and evaluation** steps include:
 
 Selecting an appropriate machine learning algorithm.
 
